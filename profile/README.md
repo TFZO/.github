@@ -10,7 +10,7 @@
 
 <p align="center">
   ⚡ We specialize in <strong>Open Source</strong> development using <strong>Python</strong> and <strong>C++</strong>! <br/>
-  Our mission is to create efficient, reliable, and scalable projects that empower developers around the world.
+  Our mission is to create efficient, reliable, and scalable projects that empower developers and users around the world.
 </p>
 
 ---
@@ -28,10 +28,7 @@
 
 <h2 align="center">🚀 What We Do:</h2>
 <p align="center">
-  At TFZO, we focus on building open-source software that:<br/>
-  💡 <strong>Solves complex problems</strong><br/>
-  ⚙️ <strong>Utilizes cutting-edge technologies</strong> in <strong>Python</strong> and <strong>C++</strong><br/>
-  🎯 <strong>Prioritizes high performance and scalability</strong>
+  🌀 We do whatever we find interesting, if we're not interested, we won't do it.
 </p>
 
 ---
