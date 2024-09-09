@@ -1,39 +1,25 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=60&pause=2501&color=F7F7F7&center=true&vCenter=true&random=true&width=1020&height=60&lines=Twenty+Five+Zero+One" alt="Typing SVG" /></a>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/169077550?s=400&u=280de7a2ea7f887b4d7152953d051fbcc2b41fd3&v=4" alt="TFZO Banner" width="400"/>
+  <img src="https://avatars.githubusercontent.com/u/169077550?s=400&u=280de7a2ea7f887b4d7152953d051fbcc2b41fd3&v=4" alt="2501 Banner" width="300"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="100" alt="Hi gif">
-</p>
-
-<p align="center">
-  ⚡ We specialize in <strong>Open Source</strong> development using <strong>Python</strong> and <strong>C++</strong>! <br/>
+  ⚡ We specialize in development using <strong>C++</strong> and <strong>Python</strong>!
   Our mission is to create efficient, reliable, and scalable projects that empower developers and users around the world.
 </p>
+&nbsp;
 
----
-
-<p align="center">
-  <strong>Table of Contents</strong><br/>
-  <a href="#what-we-do">What We Do</a> | 
-  <a href="#meet-the-founders">Meet the Founders</a> | 
-  <a href="#join-our-community">Join Our Community</a> | 
-  <a href="#contributing">Contributing</a> | 
-  <a href="#license">License</a>
-</p>
-
----
-
-<h2 align="center">🚀 What We Do:</h2>
+> ** **
+<h3 align="center">🚀 What We Do:</h3>
 <p align="center">
   🌀 We do whatever we find interesting, if we're not interested, we won't do it.
 </p>
+&nbsp;
 
----
+> ** **
 
-<h2 align="center">👥 Meet the Founders</h2>
+<h3 align="center">👥 Meet the Founders</h3>
 
 <p align="center">
   <strong>Get to know the people behind TFZO:</strong>
@@ -54,36 +40,31 @@
       <a href="https://github.com/syradeveloper">
         <img src="https://avatars.githubusercontent.com/u/112832151?v=4" alt="Owner 2" width="250"/>
       </a>
-      <p><strong>syradeveloper</strong></p>
+      <p><strong>Syra Developer</strong></p>
+      <a href="https://t.me/syradeveloper">
+        <img src="https://logodownload.org/wp-content/uploads/2017/11/telegram-logo-9.png" width="32"> 
+      </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://www.youtube.com/@SyraDeveloper">
+        <img src="https://www.svgrepo.com/download/448261/youtube.svg" width="35"> 
+      </a>
       <a href="https://github.com/syradeveloper">
         <img src="https://github-readme-stats.vercel.app/api?username=syradeveloper&show_icons=true&theme=radical" alt="Owner 2 Stats"/>
       </a>
     </td>
   </tr>
 </table>
+&nbsp;
 
----
+> ** **
 
-<h2 align="center">👥 Join Our Community</h2>
+<h3 align="center">👥 Join Our Community</h3>
 <p align="center">
-  Whether you're new to open-source or a seasoned pro, we'd love to collaborate!<br/>
+  We welcome contributions from the community! <br/>
   💬 <strong>Discord</strong>: <a href="https://discord.gg/ZE6dUSAbes" target="_blank">Join us!</a><br/>
 </p>
+&nbsp;
 
----
+> ** **
 
-<h2 align="center">🤝 Contributing</h2>
-<p align="center">
-  We welcome contributions from the community!
-</p>
-
----
-
-<h2 align="center">📜 License</h2>
-<p align="center">
-  All our projects are licensed under the <strong>MIT License</strong>.
-</p>
-
----
-
-<p align="center"><strong>TFZO</strong> - Empowering developers, one line of code at a time! 👨‍💻👩‍💻</p>
+<h4 align="center"><strong>2501</strong> - born in the sea of information &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>2501</strong> - born in the sea of information<strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2501</strong> - born in the sea of information</h4>
