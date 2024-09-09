@@ -40,7 +40,8 @@
       <a href="https://github.com/syradeveloper">
         <img src="https://avatars.githubusercontent.com/u/112832151?v=4" alt="Owner 2" width="250"/>
       </a>
-      <p><strong>Syra Developer</strong></p>
+      <h4><strong>Syra Developer</strong></h4>
+      <p>contact me now!</p>
       <a href="https://t.me/syradeveloper">
         <img src="https://logodownload.org/wp-content/uploads/2017/11/telegram-logo-9.png" width="32"> 
       </a>
@@ -48,6 +49,10 @@
       <a href="https://www.youtube.com/@SyraDeveloper">
         <img src="https://www.svgrepo.com/download/448261/youtube.svg" width="35"> 
       </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="mailto:syradeveloper@gmail.com">
+        <img src="https://www.svgrepo.com/show/444835/mail-send.svg" width="35"> 
+      </a> 
       <a href="https://github.com/syradeveloper">
         <img src="https://github-readme-stats.vercel.app/api?username=syradeveloper&show_icons=true&theme=radical" alt="Owner 2 Stats"/>
       </a>
