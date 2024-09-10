@@ -31,7 +31,7 @@
       <a href="https://github.com/atheop1337">
         <img src="https://avatars.githubusercontent.com/u/133809614?v=4" alt="Owner 1" width="250"/>
       </a>
-      <p><strong>atheop1337</strong></p>
+      <h4><strong>atheop1337</strong></h4>
       <a href="https://github.com/atheop1337">
         <img src="https://github-readme-stats.vercel.app/api?username=atheop1337&show_icons=true&theme=radical" alt="Owner 1 Stats"/>
       </a>
@@ -40,7 +40,7 @@
       <a href="https://github.com/syradeveloper">
         <img src="https://avatars.githubusercontent.com/u/112832151?v=4" alt="Owner 2" width="250"/>
       </a>
-      <p><strong>syradeveloper</strong></p>
+      <h4><strong>Syra Developer</strong></h4>
       </a>
       <a href="https://github.com/syradeveloper">
         <img src="https://github-readme-stats.vercel.app/api?username=syradeveloper&show_icons=true&theme=radical" alt="Owner 2 Stats"/>
@@ -56,6 +56,7 @@
 <p align="center">
   We welcome contributions from the community! <br/>
   💬 <strong>Discord</strong>: <a href="https://discord.gg/ZE6dUSAbes" target="_blank">Join us!</a><br/>
+  💬 <strong>Telegram</strong>: <a href="https://t.me/about2501" target="_blank">Click me!</a><br/>
 </p>
 &nbsp;
 
